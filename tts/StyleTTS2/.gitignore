@@ -1,0 +1,5 @@
+__pycache__
+.venv
+Models/**/*.pth
+reference_audio
+*.wav
